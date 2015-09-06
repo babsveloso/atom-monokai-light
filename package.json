@@ -1,0 +1,15 @@
+{
+  "name": "atom-monokai-light",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A few changes to kevinsawicki's monokai theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/atom-monokai-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
