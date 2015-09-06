@@ -9,4 +9,3 @@ Small fixes for kevinsawicki's Monokai theme for atom with the following:
 * gutter selected color is the bg color for simplicity
 * less "bold" for readability
 * and more!
-# atom-monokai-light
